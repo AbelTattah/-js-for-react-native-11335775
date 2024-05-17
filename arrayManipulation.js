@@ -9,6 +9,5 @@ const formatArrayStrings = (arrayOfStrings,arrayOfNumbers) => {
     }
 }
 
-
 export { processArray, formatArrayStrings }
 
