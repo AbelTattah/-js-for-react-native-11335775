@@ -57,3 +57,10 @@ Sample output:
 ### Create a readme file
 Create a readme file that contains the student's ID and a brief explanation
 of each task.
+
+# Usage
+Make sure you have a stable version of nodejs installed on your system. Run this c in your terminal with the root of this project as current working directory:
+
+```
+npm start
+```

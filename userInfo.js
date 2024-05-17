@@ -16,5 +16,11 @@ function createUserProfiles(arrayOfNames,arrayOfModifiedNames) {
 const names = ['Adel','Kofi','Kwadwo']
 const numbers = [2,4,3,45,6,9]
 
+console.log(`
+Inputs:
+Array of Strings: ${names}
+Array of numbers: ${numbers}
+`)
+
 // Check whether code is correct
 console.log(createUserProfiles(names,formatArrayStrings(names,numbers)))
